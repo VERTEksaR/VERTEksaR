@@ -5,7 +5,6 @@ Backend Developer with a focus on building scalable, production-ready APIs.
 - 🔭 Currently building a construction cost-estimation backend from scratch at **SK Dynasty**
 - 🛠️ Core stack: **Python, FastAPI, Django REST Framework, SQLAlchemy, PostgreSQL, Docker**
 - 📊 Side project: [Self-Monitoring](https://github.com/VERTEksaR/Self-Mnitoring) — a personal analytics system with async REST APIs and Telegram bot integration
-- 🌍 Open to relocation opportunities across the EU and Cyprus
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/valerii-chekavyi/)
 
 
@@ -27,8 +26,3 @@ Backend Developer with a focus on building scalable, production-ready APIs.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-
-#### GitHub Stats
-
-![Valerii's GitHub stats](https://github-readme-stats.vercel.app/api?username=VERTEksaR&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VERTEksaR&layout=compact)
