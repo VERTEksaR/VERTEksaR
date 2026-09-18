@@ -5,7 +5,6 @@ Backend Developer with a focus on building scalable, production-ready APIs.
 - 🔭 Currently building a construction cost-estimation backend from scratch at **SK Dynasty**
 - 🛠️ Core stack: **Python, FastAPI, Django REST Framework, SQLAlchemy, PostgreSQL, Docker**
 - 📊 Side project: [Self-Monitoring](https://github.com/VERTEksaR/Self-Mnitoring) — a personal analytics system with async REST APIs and Telegram bot integration
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/valerii-chekavyi/)
 
 
 #### Tech Stack
